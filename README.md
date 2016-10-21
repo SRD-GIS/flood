@@ -1,2 +1,2 @@
 # flood
-Flood preparation/notice material repository
+Flood preparation/Storm & weather notification resources
